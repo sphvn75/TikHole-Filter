@@ -1,32 +1,20 @@
-([A-Za-z0-9]+(-[A-Za-z0-9]+)+)\.tiktokv\.com -- TikHole
-([A-Za-z0-9]+(-[A-Za-z0-9]+)+)\.tiktok\.com -- TikHole
-([A-Za-z0-9]+(-[A-Za-z0-9]+)+)\.tiktokcdn\.com -- TikHole
-([A-Za-z0-9]+(-[A-Za-z0-9]+)+)\.tiktokcdn-eu\.com -- TikHole
-([A-Za-z0-9]+(-[A-Za-z0-9]+)+)\.tiktokcdn-us\.com -- TikHole
-[A-Za-z0-9]+\.tiktokcdn-eu\.com -- TikHole
-([A-Za-z0-9]+(-[A-Za-z0-9]+)+)\.ttwstatic\.com -- TikHole
-[A-Za-z0-9]+\.tiktokv\.com -- TikHole
-([A-Za-z0-9]+(-[A-Za-z0-9]+)+)\.ttlivecdn\.com -- TikHole
-([A-Za-z0-9]+(-[A-Za-z0-9]+)+)\.ibytedtos\.com -- TikHole
-bytedance.map.fastly.net -- TikHole
-([A-Za-z0-9]+(-[A-Za-z0-9]+)+)\.ibyteimg\.com -- TikHole
-([A-Za-z0-9]+(-[A-Za-z0-9]+)+)\.[A-Za-z]+\.[A-Za-z0-9]+\.tiktokv\.com -- TikHole
-([A-Za-z0-9]+(-[A-Za-z0-9]+)+)\.[A-Za-z0-9]+\.[A-Za-z0-9]+\.tiktokcdn\.com -- TikHole
-[A-Za-z0-9]+\.tiktokcdn\.com -- TikHole
-([A-Za-z0-9]+(-[A-Za-z0-9]+)+)\.[A-Za-z0-9]+\.tiktokcdn\.com -- TikHole
-tiktok.bytedance.map.fastly.net -- TikHole
-connectivitycheck.gstatic.com -- TikHole
-crashlyticsreports-pa.googleapis.com -- TikHole
-a2047.mm2.akamai.net -- TikHole
-e28622.a.akamaiedge.net -- TikHole
-e28622.api2.akamaiedge.net -- TikHole
-v16m-default.akamaized.net -- TikHole
-([A-Za-z0-9]+(-[A-Za-z0-9]+)+)\.byteoversea\.com -- TikHole
-([A-Za-z0-9]+(-[A-Za-z0-9]+)+)\.[A-Za-z0-9]+\.ttwstatic\.com -- TikHole
-([A-Za-z0-9]+(-[A-Za-z0-9]+)+)\.bytedapm\.com -- TikHole
-[A-Za-z0-9]+\.tiktokv\.com -- TikHole
-[A-Za-z0-9]+-[A-Za-z0-9]+\.[A-Za-z0-9]+\.byteoversea\.net -- TikHole
-[A-Za-z0-9]+\.isnssdk\.com -- TikHole
-[A-Za-z0-9]+-[A-Za-z0-9]+\.tiktokw\.eu -- TikHole
-[A-Za-z0-9]+-[A-Za-z0-9]+\.byteoversea\.com -- TikHole
-[A-Za-z0-9]+-[A-Za-z0-9]+\.pitaya-clientai\.com -- TikHole
+.*tiktok.*.
+.*byteoversea.*.
+.*ibyteimg.*.
+.*ibytedtos.*.
+.*ttlivecdn.*.
+.*bytedapm.*.
+.*ttwstatic.*.
+.*bytedance.*.
+.*pitaya-clientai.*.
+0.0.0.0 a2047.mm2.akamai.net
+0.0.0.0 i.isnssdk.com
+0.0.0.0 img-1000736.ad-score.com
+0.0.0.0 in.appcenter.ms
+0.0.0.0 mobile.adsafeprotected.com
+0.0.0.0 mon.isnssdk.com
+0.0.0.0 server.adform.net
+0.0.0.0 unified.adsafeprotected.com
+0.0.0.0 v16m-default.akamaized.net
+
+
