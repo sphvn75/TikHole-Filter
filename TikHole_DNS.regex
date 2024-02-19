@@ -6,31 +6,27 @@
 0.0.0.0 [A-Za-z0-9]+\.tiktokcdn-eu\.com
 0.0.0.0 ([A-Za-z0-9]+(-[A-Za-z0-9]+)+)\.ttwstatic\.com
 0.0.0.0 [A-Za-z0-9]+\.tiktokv\.com
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
+0.0.0.0 ([A-Za-z0-9]+(-[A-Za-z0-9]+)+)\.ttlivecdn\.com
+0.0.0.0 ([A-Za-z0-9]+(-[A-Za-z0-9]+)+)\.ibytedtos\.com
+0.0.0.0 bytedance.map.fastly.net
+0.0.0.0 ([A-Za-z0-9]+(-[A-Za-z0-9]+)+)\.ibyteimg\.com
+0.0.0.0 ([A-Za-z0-9]+(-[A-Za-z0-9]+)+)\.[A-Za-z]+\.[A-Za-z0-9]+\.tiktokv\.com
+0.0.0.0 ([A-Za-z0-9]+(-[A-Za-z0-9]+)+)\.[A-Za-z0-9]+\.[A-Za-z0-9]+\.tiktokcdn\.com
+0.0.0.0 [A-Za-z0-9]+\.tiktokcdn\.com
+0.0.0.0 ([A-Za-z0-9]+(-[A-Za-z0-9]+)+)\.[A-Za-z0-9]+\.tiktokcdn\.com
+0.0.0.0 tiktok.bytedance.map.fastly.net
+0.0.0.0 connectivitycheck.gstatic.com
+0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 a2047.mm2.akamai.net
+0.0.0.0 e28622.a.akamaiedge.net
+0.0.0.0 e28622.api2.akamaiedge.net
+0.0.0.0 v16m-default.akamaized.net
+0.0.0.0 ([A-Za-z0-9]+(-[A-Za-z0-9]+)+)\.byteoversea\.com
+0.0.0.0 ([A-Za-z0-9]+(-[A-Za-z0-9]+)+)\.[A-Za-z0-9]+\.ttwstatic\.com
+0.0.0.0 ([A-Za-z0-9]+(-[A-Za-z0-9]+)+)\.bytedapm\.com
+0.0.0.0 [A-Za-z0-9]+\.tiktokv\.com
+0.0.0.0 [A-Za-z0-9]+-[A-Za-z0-9]+\.[A-Za-z0-9]+\.byteoversea\.net
+0.0.0.0 [A-Za-z0-9]+\.isnssdk\.com
+0.0.0.0 [A-Za-z0-9]+-[A-Za-z0-9]+\.tiktokw\.eu
+0.0.0.0 [A-Za-z0-9]+-[A-Za-z0-9]+\.byteoversea\.com
+0.0.0.0 [A-Za-z0-9]+-[A-Za-z0-9]+\.pitaya-clientai\.com
